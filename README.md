@@ -13,7 +13,7 @@
 ## 운영체제
 1. [Introduction to Operating Systems](https://github.com/dudtjs1021ej/CS_study/issues/1)
 2. [System Structure & Program Execution](https://github.com/dudtjs1021ej/CS_study/issues/2)
-3. Process
+3. [Process](https://github.com/dudtjs1021ej/CS_study/issues/3)
 4. Process Management
 5. CPU Scheduling
 6. Process Synchronization
