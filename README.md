@@ -14,7 +14,7 @@
 1. [Introduction to Operating Systems](https://github.com/dudtjs1021ej/CS_study/issues/1)
 2. [System Structure & Program Execution](https://github.com/dudtjs1021ej/CS_study/issues/2)
 3. [Process](https://github.com/dudtjs1021ej/CS_study/issues/3)
-4. Process Management
+4. [Process Management](https://github.com/dudtjs1021ej/CS_study/issues/4)
 5. CPU Scheduling
 6. Process Synchronization
 7. Deadlocks
