@@ -15,7 +15,7 @@
 2. [System Structure & Program Execution](https://github.com/dudtjs1021ej/CS_study/issues/2)
 3. [Process](https://github.com/dudtjs1021ej/CS_study/issues/3)
 4. [Process Management](https://github.com/dudtjs1021ej/CS_study/issues/4)
-5. CPU Scheduling
+5. [CPU Scheduling](https://github.com/dudtjs1021ej/CS_study/issues/5)
 6. Process Synchronization
 7. Deadlocks
 8. Memory Management
