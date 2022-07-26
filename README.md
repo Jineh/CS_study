@@ -16,7 +16,7 @@
 3. [Process](https://github.com/dudtjs1021ej/CS_study/issues/3)
 4. [Process Management](https://github.com/dudtjs1021ej/CS_study/issues/4)
 5. [CPU Scheduling](https://github.com/dudtjs1021ej/CS_study/issues/5)
-6. Process Synchronization
+6. [Process Synchronization](https://github.com/dudtjs1021ej/CS_study/issues/6)
 7. Deadlocks
 8. Memory Management
 9. Virtual Memory
