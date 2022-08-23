@@ -18,7 +18,7 @@
 5. [CPU Scheduling](https://github.com/dudtjs1021ej/CS_study/issues/5)
 6. [Process Synchronization](https://github.com/dudtjs1021ej/CS_study/issues/6)
 7. [Deadlocks](https://github.com/dudtjs1021ej/CS_study/issues/8)
-8. Memory Management
+8. [Memory Management](https://github.com/dudtjs1021ej/CS_study/issues/9)
 9. Virtual Memory
 10. File Systems Implementation
 11. Disk Management and Scheduling
