@@ -21,7 +21,7 @@
 8. [Memory Management](https://github.com/dudtjs1021ej/CS_study/issues/9)
 9. [Virtual Memory](https://github.com/dudtjs1021ej/CS_study/issues/10)
 10. [File Systems Implementation](https://github.com/dudtjs1021ej/CS_study/issues/11)
-11. Disk Management and Scheduling
+11. [Disk Management and Scheduling](https://github.com/dudtjs1021ej/CS_study/issues/12)
 
 </br>
 
